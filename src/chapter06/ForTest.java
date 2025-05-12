@@ -15,6 +15,5 @@ public class ForTest {
 
 
         String name = "";
-        for
     }
 }
