@@ -13,6 +13,5 @@ public class ForTestArray {
             }
             System.out.println();
         }
-        이름 = 'hello';
     }
 }
