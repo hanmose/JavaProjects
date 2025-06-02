@@ -1,3 +1,5 @@
+package chapter07;
+
 /**AUTHOR: NICHOLAS SEWARD
  * EMAIL: nicholas.seward@gmail.com
  * LICENSE: MIT (USE THIS HOWEVER YOU SEE FIT.)
