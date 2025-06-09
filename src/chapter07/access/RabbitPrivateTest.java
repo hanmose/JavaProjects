@@ -1,6 +1,6 @@
 package chapter07.access;
 
-public class RabbitTest {
+public class RabbitPrivateTest {
     public static void main(String[] args) {
         Rabbit r1 = new Rabbit();
         r1.setShape("Rectangle");
