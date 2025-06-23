@@ -10,4 +10,6 @@ public class RabbitPublicTest {
         System.out.printf("토끼 모양: %s\n", r1.shape);
         System.out.printf("토끼 현재 위치: (%d, %d)\n", r1.x, r1.y);
     }
+
+
 }

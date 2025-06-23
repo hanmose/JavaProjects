@@ -11,5 +11,8 @@ public class rabbitLAB1 {
         y = input.nextInt();
         rabbi.setPosition(x,y);
         rabbi.move();
+
+        Rabbit rabb3 = new Rabbit();
+
     }
 }
